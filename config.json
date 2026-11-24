@@ -1,0 +1,71 @@
+{
+  "starting_cash_gbp": 100,
+  "poll_minutes": 10,
+  "poll_closed_minutes": 30,
+  "use_claude": true,
+  "claude_model": "claude-haiku-5-5",
+
+  "entry_sentiment": 0.5,
+  "exit_sentiment": -0.5,
+  "max_positions": 3,
+  "max_position_pct": 0.35,
+  "stop_loss_pct": 0.04,
+  "take_profit_pct": 0.06,
+  "max_hold_days": 5,
+  "daily_loss_limit_pct": 0.05,
+  "max_chase_pct": 0.03,
+  "min_trade_gbp": 5,
+  "news_max_age_hours": 24,
+  "signal_max_age_hours": 20,
+
+  "benchmark_symbol": "ISF.L",
+
+  "markets": {
+    "UK": {
+      "open": "08:10", "close": "16:25",
+      "extended_hours": false,
+      "half_spread_pct": {"regular": 0.001},
+      "stamp_duty_pct": 0.005,
+      "fx_fee_pct": 0.0
+    },
+    "US": {
+      "open": "09:40", "close": "15:55",
+      "extended_hours": true, "ext_open": "04:05", "ext_close": "19:55",
+      "half_spread_pct": {"regular": 0.0005, "extended": 0.003},
+      "stamp_duty_pct": 0.0,
+      "fx_fee_pct": 0.0015
+    }
+  },
+
+  "watchlist": [
+    {"symbol": "ISF.L",  "market": "UK", "name": "iShares FTSE 100 ETF", "type": "etf",   "aliases": ["FTSE 100", "FTSE100", "London stocks"]},
+    {"symbol": "VUSA.L", "market": "UK", "name": "Vanguard S&P 500 ETF", "type": "etf",   "aliases": ["S&P 500", "Wall Street"]},
+    {"symbol": "AZN.L",  "market": "UK", "name": "AstraZeneca",          "type": "stock", "aliases": ["AstraZeneca"]},
+    {"symbol": "SHEL.L", "market": "UK", "name": "Shell",                "type": "stock", "aliases": ["Shell plc", "Shell"]},
+    {"symbol": "BP.L",   "market": "UK", "name": "BP",                   "type": "stock", "aliases": ["BP"]},
+    {"symbol": "HSBA.L", "market": "UK", "name": "HSBC",                 "type": "stock", "aliases": ["HSBC"]},
+    {"symbol": "LLOY.L", "market": "UK", "name": "Lloyds",               "type": "stock", "aliases": ["Lloyds"]},
+    {"symbol": "BARC.L", "market": "UK", "name": "Barclays",             "type": "stock", "aliases": ["Barclays"]},
+    {"symbol": "GSK.L",  "market": "UK", "name": "GSK",                  "type": "stock", "aliases": ["GSK"]},
+    {"symbol": "ULVR.L", "market": "UK", "name": "Unilever",             "type": "stock", "aliases": ["Unilever"]},
+    {"symbol": "RR.L",   "market": "UK", "name": "Rolls-Royce",          "type": "stock", "aliases": ["Rolls-Royce"]},
+    {"symbol": "VOD.L",  "market": "UK", "name": "Vodafone",             "type": "stock", "aliases": ["Vodafone"]},
+    {"symbol": "TSCO.L", "market": "UK", "name": "Tesco",                "type": "stock", "aliases": ["Tesco"]},
+    {"symbol": "BATS.L", "market": "UK", "name": "British American Tobacco", "type": "stock", "aliases": ["British American Tobacco"]},
+
+    {"symbol": "AAPL",  "market": "US", "name": "Apple",     "type": "stock", "aliases": ["Apple"]},
+    {"symbol": "MSFT",  "market": "US", "name": "Microsoft", "type": "stock", "aliases": ["Microsoft"]},
+    {"symbol": "NVDA",  "market": "US", "name": "Nvidia",    "type": "stock", "aliases": ["Nvidia"]},
+    {"symbol": "TSLA",  "market": "US", "name": "Tesla",     "type": "stock", "aliases": ["Tesla"]},
+    {"symbol": "AMZN",  "market": "US", "name": "Amazon",    "type": "stock", "aliases": ["Amazon"]},
+    {"symbol": "GOOGL", "market": "US", "name": "Alphabet",  "type": "stock", "aliases": ["Alphabet", "Google"]},
+    {"symbol": "META",  "market": "US", "name": "Meta Platforms", "type": "stock", "aliases": ["Meta Platforms", "Instagram"]},
+    {"symbol": "JPM",   "market": "US", "name": "JPMorgan",  "type": "stock", "aliases": ["JPMorgan"]},
+    {"symbol": "XOM",   "market": "US", "name": "Exxon Mobil", "type": "stock", "aliases": ["Exxon"]}
+  ],
+
+  "general_feeds": [
+    "https://www.theguardian.com/uk/business/rss",
+    "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
+  ]
+}
