@@ -1,0 +1,35 @@
+name: paper-trader
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # GitHub may delay these by a few minutes; that's fine
+  workflow_dispatch:          # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write             # so the bot can save its state back to the repo
+
+concurrency:
+  group: paper-trader
+  cancel-in-progress: false
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run one cycle
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python bot.py once --ci
+      - name: Write report and save state
+        run: |
+          mkdir -p data
+          python bot.py report > data/report.txt || true
+          git config user.name "paper-trader"
+          git config user.email "paper-trader@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "state $(date -u +%FT%TZ)" && git push)
