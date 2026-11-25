@@ -337,15 +337,88 @@
   "f80bf5d4c0fce65c",
   "47fc303747020fa6",
   "51e489a3a1b54320",
-  "ea3a3145c7b4bb7d"
+  "ea3a3145c7b4bb7d",
+  "5f80f241cb94d2d1",
+  "602af7e51601cc82",
+  "ddfcf5e258f05775",
+  "7826b22c6ee03296",
+  "e578ef3b35dc91b5",
+  "470ac203444e652d",
+  "936d7e9705d0a9bb",
+  "ea8928c12ebf234c",
+  "832c370252f4d85e",
+  "9d5e9de83eac904a",
+  "5a4f3b29fe6124b2",
+  "0c582f3d69e03905",
+  "fa622d9bf0aca0de",
+  "1d09272817cef374",
+  "28beb72ae29cc282",
+  "ad6e42035ffdb9de",
+  "b7a8d26ffea9b2ee",
+  "3f103faf6a0e0d7f",
+  "b27e93d2ff5c6c27",
+  "2a8dac72ab2b1727",
+  "12fbff18c5b4e90f",
+  "72c8743fd12918f2",
+  "b37a8ef4b77ab82f",
+  "faf6e3535dfbd636",
+  "a8ec299785614de6",
+  "02004300aabf3328",
+  "2c6db38884c4cbcb",
+  "026f0d1bf03acdcd",
+  "eaac3f827724a198",
+  "1e888829eefdb73e",
+  "6cfc6d40fd0dc48e",
+  "9a9e25b85b3929ee",
+  "05537ad3ec812151",
+  "a2338678ce27f7cf",
+  "2b2d5cc79bf8fb85",
+  "c793b9fe12f1d4b5",
+  "0df563e3f6b4742e",
+  "fa4acd3d6c80417a",
+  "2a50621a663b3126",
+  "ed5200c9b3b2d50f",
+  "dcf8e4c7fd256f39",
+  "08a346c0a5757211",
+  "1ec3663c65c43a3a",
+  "36e2eb109461f916",
+  "6447707cd8b17326",
+  "d6cf44e9152c298a",
+  "b8a6b1e69dcec387",
+  "071f77984019e183",
+  "b5b7bebf949cc19b",
+  "7464988b91dbf53c",
+  "49bdcac040d0c4c0",
+  "faca54d0dc880e8b",
+  "d235f54c743e464a",
+  "90c337ee1e950cf8",
+  "e849f59b4beebf25",
+  "7bf5909d8088cdeb",
+  "71e132072e595679",
+  "c3509aa86a9ff7e9",
+  "ff8dc83c1a4fef94",
+  "e780f37eb521befc",
+  "6b23d63a10423859",
+  "b8ec094a5f9ffadd",
+  "51ae74e82be27e36",
+  "597d7ac6340e85c2",
+  "7e90152a129aeaae",
+  "eab709a9f4b958b0",
+  "4c56f1ca63cf3f50",
+  "306131e2f4d674c7",
+  "0f076a10640237bc",
+  "1c67ed86ba0fbb01",
+  "1a94391fa83232df"
  ],
  "pending": {
   "ISF.L": {
-   "w": 1.2,
-   "ws": 0.48,
+   "w": 2.4,
+   "ws": 0.24,
    "titles": [
     "Unmanned Composites - Global Strategic Business Report 2026: Capitalize on 16% C",
-    "Tullow Oil shares jump over 14% after Ghana tax settlement eases balance sheet p"
+    "Tullow Oil shares jump over 14% after Ghana tax settlement eases balance sheet p",
+    "Henry Boot warns 2026 profit will miss forecasts, shares tumble 12%",
+    "Mobico shareholders to vote on \u00a3308m takeover as adjusted operating profit jumps"
    ],
    "ref": 10.22,
    "created": "2026-11-24T17:27:09.267598+00:00"
@@ -360,30 +433,33 @@
    "created": "2026-11-24T17:27:09.267598+00:00"
   },
   "AAPL": {
-   "w": 1.7999999999999998,
-   "ws": 0.72,
+   "w": 3.0,
+   "ws": 1.2,
    "titles": [
     "Apple Inc. (AAPL) Delivered Strong Results: Why Investors Are Watching Its Next ",
     "Think Nvidia\u2019s Surge Didn\u2019t Affect You? It Probably Had a Bigger Impact Than You",
-    "Why the Jensen Huang rally faded so quickly"
+    "Why the Jensen Huang rally faded so quickly",
+    "Jack Bogle Told Investors to Own the Market \u2018Warts and All.\u2019 Then Nvidia Soared ",
+    "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs"
    ],
    "ref": 269.0158027343514,
    "created": "2026-11-24T17:27:09.267598+00:00"
   },
   "MSFT": {
-   "w": 2.4,
-   "ws": -0.24,
+   "w": 3.0,
+   "ws": 0.0,
    "titles": [
     "Think Nvidia\u2019s Surge Didn\u2019t Affect You? It Probably Had a Bigger Impact Than You",
     "Anthropic falls below IPO price as Nvidia gives back gains",
     "Sector Update: Tech Stocks Fall Late Afternoon",
-    "Pinterest Soars 11% as Executive Pay Overhaul Sparks Takeover Speculation"
+    "Pinterest Soars 11% as Executive Pay Overhaul Sparks Takeover Speculation",
+    "Jack Bogle Told Investors to Own the Market \u2018Warts and All.\u2019 Then Nvidia Soared "
    ],
    "ref": 381.9316922038274,
    "created": "2026-11-24T17:27:09.267598+00:00"
   },
   "NVDA": {
-   "w": 5.999999999999999,
+   "w": 8.999999999999998,
    "ws": -1.2,
    "titles": [
     "AMD Stocks Fall 9.08% After Filing Registers 337 Million Shares for Resale",
@@ -395,13 +471,18 @@
     "Micron Jumped 19% Monday, Then Sank Double Digits. Here\u2019s What That Swing Means ",
     "Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvi",
     "Market Chatter: California AG Bonta to Press Nvidia Probe, Criticizes Federal Ha",
-    "Anthropic Has Plunged 30% From Its Peak. Here\u2019s the Price at Which I\u2019d Buy."
+    "Anthropic Has Plunged 30% From Its Peak. Here\u2019s the Price at Which I\u2019d Buy.",
+    "Stock market today: Dow, S&P 500, Nasdaq futures fall ahead of inflation data",
+    "Nvidia stock stumbles again after Jensen Huang's spectacular comeback rally",
+    "Jack Bogle Told Investors to Own the Market \u2018Warts and All.\u2019 Then Nvidia Soared ",
+    "Up 41% at Just Over Half Costco\u2019s P/E: Inside Coca-Cola\u2019s Quiet Rally",
+    "Kohl's Comparable Sales Rose 1.2% After Falling 0.9% Last Quarter. Here's What C"
    ],
    "ref": 116.73947551561864,
    "created": "2026-11-24T17:27:09.267598+00:00"
   },
   "TSLA": {
-   "w": 4.2,
+   "w": 5.3999999999999995,
    "ws": -0.72,
    "titles": [
     "Tesla Stocks Slip 1.74% Even as EU Registrations Jump 83.5% in October",
@@ -410,7 +491,9 @@
     "What Made Tesla Stock Jump On Monday?",
     "Top Midday Stories: Anthropic Falls Below $83 IPO Price; Sanofi to Buy Insmed",
     "Micron downgraded, GameStop initiated: Wall Street's top analyst calls",
-    "Here's Why SpaceX Stock Slumped Today, And Why it Could Come Under More Pressure"
+    "Here's Why SpaceX Stock Slumped Today, And Why it Could Come Under More Pressure",
+    "SpaceX Could Fall Below $100 On A Tesla Bid, Gary Black Says \u2014 JPMorgan Sees The",
+    "AppLovin Jumped 32% in a Brutal Month\u2014Then Dropped 15% This Week"
    ],
    "ref": 292.09455082920977,
    "created": "2026-11-24T17:27:09.267598+00:00"
@@ -426,12 +509,14 @@
    "created": "2026-11-24T17:27:09.267598+00:00"
   },
   "GOOGL": {
-   "w": 1.7999999999999998,
-   "ws": 0.24,
+   "w": 3.0,
+   "ws": -0.24,
    "titles": [
     "Broadcom Stocks Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
     "Think Nvidia\u2019s Surge Didn\u2019t Affect You? It Probably Had a Bigger Impact Than You",
-    "Bloom Energy Revenue Jumped 138%. Its Next Growth Phase Could Be Even Bigger"
+    "Bloom Energy Revenue Jumped 138%. Its Next Growth Phase Could Be Even Bigger",
+    "Shopify Keeps Sliding After Its Q3 Miss: Why Piper Sandler Still Sees 30% Upside",
+    "AI Concerns Resurface? ORCL, GOOGL, SPCX, CRWV Credit Default Swap Spreads Hit R"
    ],
    "ref": 212.08516674857256,
    "created": "2026-11-24T17:27:09.267598+00:00"
@@ -445,6 +530,24 @@
    ],
    "ref": 451.72833464652416,
    "created": "2026-11-24T17:27:09.267598+00:00"
+  },
+  "ULVR.L": {
+   "w": 0.6,
+   "ws": 0.24,
+   "titles": [
+    "Tech meltdown sparks flight to defensive stocks as Unilever, Reckitt and Diageo "
+   ],
+   "ref": 50.4335986328125,
+   "created": "2026-11-25T10:21:57.951075+00:00"
+  },
+  "JPM": {
+   "w": 0.6,
+   "ws": 0.24,
+   "titles": [
+    "Big Banks Carry Heavy Debt\u2014This Bond-Trading Network Surged 26%"
+   ],
+   "ref": 241.38914351944368,
+   "created": "2026-11-25T10:21:57.951075+00:00"
   }
  },
  "history": [
@@ -457,6 +560,11 @@
    "2026-11-25T01:30:01.986170+00:00",
    100,
    10.22
+  ],
+  [
+   "2026-11-25T10:21:57.951075+00:00",
+   100,
+   10.2633
   ]
  ],
  "day": "2026-11-25",
