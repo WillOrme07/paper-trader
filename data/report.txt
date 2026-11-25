@@ -4,6 +4,6 @@
  Cash GBP100.00 | open positions: none
  Closed trades: 0  wins: 0  realised GBP+0.00
  Costs paid:    stamp duty + FX fees GBP0.00 + spread ~GBP0.00
- Benchmark (ISF.L buy-and-hold): +0.42%
- Since: 2026-11-24T17:27   snapshots: 3
+ Benchmark (ISF.L buy-and-hold): -0.39%
+ Since: 2026-11-24T17:27   snapshots: 4
 ========================================================
