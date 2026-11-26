@@ -1,6 +1,13 @@
 {
- "cash": 100,
- "positions": {},
+ "cash": 65.00024558513061,
+ "positions": {
+  "ISF.L": {
+   "qty": 3.3802,
+   "entry": 10.354344244384764,
+   "cost": 34.99975441486938,
+   "time": "2026-11-26T11:32:55.009684+00:00"
+  }
+ },
  "seen": [
   "3548f67240f102a1",
   "c5db4a58314a3f25",
@@ -582,33 +589,160 @@
   "e78a885bf3ebd5fa",
   "1dfb06eabf064ded",
   "302183507896f9b6",
-  "32f2387fb7482914"
+  "32f2387fb7482914",
+  "ef3ebb1609b4c489",
+  "bfc4150836ca891a",
+  "0460bbb114794c62",
+  "1b8c2d223f43adda",
+  "b88ebf7af7eecf4e",
+  "999643b8c50ed0a7",
+  "198110e8ad509cf8",
+  "6de72352fe15edcb",
+  "362fe3cf17900daf",
+  "38889f2115a62eac",
+  "7734f155740fb2dc",
+  "c1cd8b26fd401ac4",
+  "8f3f4a41b3be0201",
+  "0e6f71894d8500aa",
+  "77887629706abf41",
+  "9203aab1e7f44277",
+  "760b885e9fbc48f6",
+  "469ae7cf3a138ed6",
+  "9917e8bc1dce3c54",
+  "4dbd0934629c1bf8",
+  "9b18c3e40b51d2a4",
+  "58eda10023b6c5f7",
+  "992ef25fc1570f58",
+  "a9c0e7fed16876dd",
+  "d56c005fa1696089",
+  "79253590702027f9",
+  "51eb5c13ed6736c0",
+  "a3370fa767cf348d",
+  "146b587501f5aad0",
+  "186343f83590f1be",
+  "7855a012865d2bac",
+  "b0099a2eb2ed4a36",
+  "8d4ac97394340fbb",
+  "237f179842040d9b",
+  "c914462e2a8c8ecb",
+  "357cfe54cb39bcf6",
+  "9ffc96add9be5b7b",
+  "f23e92205e5869a0",
+  "6752037b21b993d5",
+  "b2624f9b7bedfc34",
+  "51e54d45dde51044",
+  "ac4cb8c32c3925a6",
+  "3a35ff76977d4517",
+  "7a062949c5a2c471",
+  "fd59d475a379a7b7",
+  "fcc667d8f0627a4a",
+  "cfd036ccd20d8a20",
+  "c8a8285a9f09ca77",
+  "b591121c256dd2e6",
+  "c545e853caf466ab",
+  "2b95f61fc5643191",
+  "5bd9c02c78cec167",
+  "52bdbe6da3da0ab1",
+  "9afb46e60dcb926d",
+  "fdb6e78f8bdcd130",
+  "5bc91ec98f36b2a9",
+  "4230b7dda1666cf6",
+  "2496229e409bc1d5",
+  "8dc76d54a62409fb",
+  "774f9732f5cb72ab",
+  "8dbe8dd85647a1e7",
+  "47ea1fbb6c139c91",
+  "fc5d5e7a69f7680f",
+  "645d2d3ab065cd41",
+  "0a9c12b90389be11",
+  "7be493d250c63e92",
+  "c2e73f2aa2dff24c",
+  "9ec937d9e2e72ec3",
+  "0c87701b75ae3353",
+  "7d692d3037e4fe13",
+  "9016ea6ec68ee898",
+  "1ba7b9818d4df69e",
+  "d06215e450993af9",
+  "3a5b23f7eee255bd",
+  "93300f656c626932",
+  "e9a36caa27c19eb7",
+  "0fc4008361aaa9dd",
+  "9e218d5665d3c5f4",
+  "089f5505cd55ff31",
+  "d0df22012ecceffe",
+  "8b16cc3b6c654d90",
+  "cd831b969497a9cf",
+  "362f164d90090514",
+  "eb2f7565c54daf00",
+  "4d685d34b9c52a12",
+  "ab6c9295646b64d4",
+  "7f441ae189b3a85a",
+  "0fd0c224f7c15720",
+  "76d242638aafe093",
+  "217ddaf12d7d8603",
+  "235c12c6fee3a0a5",
+  "193fca7c6b42d3c4",
+  "f4020228394e031c",
+  "d6d8e2671624d6eb",
+  "46bd1327b2710b52",
+  "2d6539468724de84",
+  "7f0001554b38bdc3",
+  "93d3d663aa017919",
+  "b37ee9f201e1df25",
+  "a17c484542795976",
+  "e927834b431f8d91",
+  "6e7ca505a727e124",
+  "05dfa2daa0a3caa8",
+  "81e5c992119df430",
+  "3178f2f5f0893cd3",
+  "8c5494dfbac7bcee",
+  "e876d6d98aa0972d",
+  "b5360d7920448a8d",
+  "a822c576a745e6e8",
+  "a7927534d08a21d7",
+  "cba4e0bb906e7cee",
+  "e7997e73f9277df7",
+  "f2e0dc208f716f11",
+  "eee1392a1dca55e9",
+  "1e7ecd4ed624a040",
+  "da84b60c2717192f",
+  "39e6bd0fa19b7502",
+  "b2c448ecff1da96e",
+  "899373007db385b7",
+  "bccb80d363b9aec0",
+  "c5f9e7c893bde013",
+  "3f8510d01d81cde8",
+  "531b9b63e6e4d4cc",
+  "3f0f8ce7b81ebaf8",
+  "a41c5c0bbef492dc",
+  "9a66a1af5c7e7e34",
+  "960515915e48dd39",
+  "0f889c1b0f1ed7cc",
+  "0041e78b5dc57b1f",
+  "82f3a8cf42911a1d",
+  "d5792103554f965a",
+  "ea2eb5400d3ac467",
+  "20d0f009fe5a3f13",
+  "5577188d7e790274",
+  "3a5f690dd102c1ba",
+  "bf113b625e5add3d",
+  "40efcd7e6ede5bfd",
+  "0a820d72456efcf1",
+  "b71f16c148fa1d39",
+  "71f29a532c5e117f",
+  "5cfa5c2792b47c99",
+  "aadf7e5af8d79add",
+  "1a74af5688d328df",
+  "12b4463f6e63b59b",
+  "c5b3393a880ef278",
+  "09db300870a5f8e6",
+  "3be23bd02c5dd40f",
+  "d30187eb119daf6b",
+  "bc0ee6d786d1792a",
+  "cc235ed094161750",
+  "1100e3a7ef57e9ad"
  ],
  "pending": {
-  "ULVR.L": {
-   "w": 3.6,
-   "ws": -1.44,
-   "titles": [
-    "Tech meltdown sparks flight to defensive stocks as Unilever, Reckitt and Diageo ",
-    "British Shares Fall Amid Global Tech Selloff; Unilever Gains",
-    "EU, UK fine fragrance firms over 570 mn euros for international cartel",
-    "Three global fragrance suppliers fined millions for colluding over prices",
-    "Givaudan, Firmenich, and IFF hit with \u20ac471.9 million EU antitrust fine",
-    "Fragrance Giants Fined Over $600M in EU and U.K. for Antitrust Violations"
-   ],
-   "ref": 50.4335986328125,
-   "created": "2026-11-25T10:21:57.951075+00:00"
-  },
-  "JPM": {
-   "w": 1.2,
-   "ws": 0.0,
-   "titles": [
-    "Big Banks Carry Heavy Debt\u2014This Bond-Trading Network Surged 26%",
-    "Robinhood, JPMorgan, Other Financial Stocks Slump Amid Broad Market Rout"
-   ],
-   "ref": 241.38914351944368,
-   "created": "2026-11-25T10:21:57.951075+00:00"
-  },
   "HSBA.L": {
    "w": 0.6,
    "ws": 0.24,
@@ -626,6 +760,63 @@
    ],
    "ref": 121.09862172308596,
    "created": "2026-11-25T20:01:44.216397+00:00"
+  },
+  "RR.L": {
+   "w": 0.6,
+   "ws": 0.24,
+   "titles": [
+    "Prediction: Rolls-Royce shares will flourish in 2027, but don\u2019t expect another 2"
+   ],
+   "ref": 12.985999755859375,
+   "created": "2026-11-26T11:32:55.009684+00:00"
+  },
+  "AAPL": {
+   "w": 0.6,
+   "ws": -0.48,
+   "titles": [
+    "Nvidia\u2019s Market Cap Falls Below Microsoft\u2019s: Analyst Flags Five Overhangs For NV"
+   ],
+   "ref": 271.11884696193084,
+   "created": "2026-11-26T11:32:55.009684+00:00"
+  },
+  "MSFT": {
+   "w": 1.2,
+   "ws": -0.24,
+   "titles": [
+    "BT launches nationwide cyber resilience drive as AI helps fuel 500% surge in mal",
+    "Nvidia\u2019s Market Cap Falls Below Microsoft\u2019s: Analyst Flags Five Overhangs For NV"
+   ],
+   "ref": 375.7547647394149,
+   "created": "2026-11-26T11:32:55.009684+00:00"
+  },
+  "NVDA": {
+   "w": 0.6,
+   "ws": -0.24,
+   "titles": [
+    "Nvidia, AMD and Micron Stocks Plunge as AI Selloff Deepens"
+   ],
+   "ref": 115.45646870623254,
+   "created": "2026-11-26T11:32:55.009684+00:00"
+  },
+  "AMZN": {
+   "w": 0.6,
+   "ws": 0.24,
+   "titles": [
+    "Musk's Plan To Put 1 Million AI Satellites In Orbit Gets US Approval. Amazon Que"
+   ],
+   "ref": 188.40522808879257,
+   "created": "2026-11-26T11:32:55.009684+00:00"
+  },
+  "GOOGL": {
+   "w": 1.7999999999999998,
+   "ws": 0.72,
+   "titles": [
+    "BT launches nationwide cyber resilience drive as AI helps fuel 500% surge in mal",
+    "SpaceX gets approval for 1 million data center satellites",
+    "SpaceX wins approval to launch one million AI data centre satellites"
+   ],
+   "ref": 209.87851264816996,
+   "created": "2026-11-26T11:32:55.009684+00:00"
   }
  },
  "history": [
@@ -648,14 +839,19 @@
    "2026-11-25T20:01:44.216397+00:00",
    100,
    10.18
+  ],
+  [
+   "2026-11-26T11:32:55.009684+00:00",
+   99.965,
+   10.344
   ]
  ],
- "day": "2026-11-25",
+ "day": "2026-11-26",
  "day_start_equity": 100,
  "bench": {
   "symbol": "ISF.L",
   "start": 10.22
  },
  "fees": 0.0,
- "spread_cost": 0.0
+ "spread_cost": 0.03496478962524414
 }
