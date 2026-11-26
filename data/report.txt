@@ -1,9 +1,9 @@
 ========================================================
- Paper account: start GBP100.00  now GBP99.97
- Profit/loss:   GBP-0.03  (-0.03%)
+ Paper account: start GBP100.00  now GBP100.07
+ Profit/loss:   GBP+0.07  (+0.07%)
  Cash GBP65.00 | open positions: ISF.L
  Closed trades: 0  wins: 0  realised GBP+0.00
  Costs paid:    stamp duty + FX fees GBP0.00 + spread ~GBP0.03
- Benchmark (ISF.L buy-and-hold): +1.21%
- Since: 2026-11-24T17:27   snapshots: 5
+ Benchmark (ISF.L buy-and-hold): +1.53%
+ Since: 2026-11-24T17:27   snapshots: 6
 ========================================================
